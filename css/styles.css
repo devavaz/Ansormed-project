@@ -6,6 +6,10 @@ box-sizing: border-box;
 body{
   padding: 0;
   margin: 0;
+  font-family: "Open Sans", Arial, Helvetica, sans-serif;
+  line-height:  1.5; 
+  font-size: 16x;
+  color: 444;  
 }
 
 /* Container  */
@@ -17,4 +21,14 @@ body{
   width: 100%;
   margin-right: auto;
   margin-left: auto;
-}
+} 
+
+
+
+
+/* Open Sans 400,  600, 700 
+ Open Sans Condensed 700 
+
+
+
+*/
