@@ -8,8 +8,9 @@ body{
   margin: 0;
   font-family: "Open Sans", Arial, Helvetica, sans-serif;
   line-height:  1.5; 
-  font-size: 16x;
+  font-size: 16 x;
   color: 444;  
+  background-color: white ;
 }
 
 /* Container  */
