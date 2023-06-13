@@ -166,6 +166,57 @@ border-radius: 8px ;
    opacity: 0.6;
 }
 
+.main-link-solid:hover{
+  background-color: rgba(222, 46, 84, 0.8);
+  border-color: transparent; 
+  color: #fff;
+}
+
+main-link-solid:active{
+  background-color: rgba(222, 46, 84, 0.6);
+  opacity: 1; 
+}
+
+
+/* HERO  */
+
+.hero {
+  background-color: #0EB4C1;
+  color: #fff
+}
+
+.hero-content{
+width: 500px;
+padding-top: 120px;
+padding-bottom: 120px;
+
+}
+
+.hero-heading {
+margin-top: 0;
+margin-bottom: 16px;
+font-family: "Open Sans",Arial, Helvetica, sans-serif;
+font-size: 36px ;
+line-height: 1.2;
+}
+
+.hero-text {
+  width: 440px;
+  margin-top: 0;
+  margin-bottom: 36px;
+}
+
+
+.hero-container{
+display: flex;
+justify-content: space-between;
+}
+
+.hero-img {
+align-self: flex-end ;
+}
+
+
 
 
 
