@@ -351,3 +351,25 @@ margin-bottom: 80px;
   align-items: center;
   justify-content: space-between ;
  }
+
+
+ /* js */
+
+ #scrollToTop {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 1;
+  background-color: #007BFF;
+  color: #fff;
+  border: none;
+  border-radius: 50%;
+  padding: 10px 15px;
+  cursor: pointer;
+}
+
+#scrollToTop:hover {
+  background-color: #0056b3;
+}
+
